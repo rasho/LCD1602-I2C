@@ -15,7 +15,7 @@ Ova biblioteka omogućava jednostavno upravljanje LCD ekranom 16x2 preko I2C kom
 1. Uključite biblioteku dodavanjem sledeće linije na početak vašeg Arduino programa:
 
 ```cpp
-#include "LCD_I2C.h"
+#include "lcd1602i2c.h"
 ```
 
 2. Inicijalizujte objekat klase LCD_I2C sa odgovarajućim brojem kolona i redova LCD ekrana:
